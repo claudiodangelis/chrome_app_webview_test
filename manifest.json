@@ -1,0 +1,12 @@
+{
+    "name": "Test webview",
+    "description": "Trying WebViews",
+    "manifest_version": 2,
+    "version": "0.1",
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "permissions": ["webview"]
+    }
